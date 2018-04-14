@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Partit Puto Amo",
-    "currentPage": "index.html",
+    "currentPage": "inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2647,7 +2647,7 @@
         }
       ]
     },
-    "index.html": {
+    "inicio.html": {
       "settings": {
         "main": true,
         "title": "Partit Puto Amo",
