@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Partit Puto Amo",
-    "currentPage": "index.html",
+    "currentPage": "aviso_legal.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/favicon1-128x128-1.png",
     "noImageResize": "",
-    "cookiesAlert": "Usamos cookies para ofrecerte la mejor experiencia en la web. Léelas aquí <a href='aviso_legal'> Content 5-2g </a>.",
+    "cookiesAlert": "Usamos cookies para ofrecerte la mejor experiencia en la web. Léelas aquí <a href='aviso_legal#content5-2g'> Política de Cookies </a>.",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-117429813-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-117429813-1');\r\n</script>",
     "siteUrl": "",
     "versionFirst": "4.7.0",
