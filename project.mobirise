@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Partit Puto Amo",
-    "currentPage": "gobierno.html",
+    "currentPage": "aviso_legal.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3841,7 +3841,7 @@
       "settings": {
         "main": true,
         "title": "Partit Puto Amo",
-        "meta_descr": "Página de inicio de la web del Partit Puto Amo",
+        "meta_descr": "Esta es la página web del Partit Puto Amo, la mejor web del mundo mundial, donde encontrarás los pasos necesarios para convertirte en el Puto Amo.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -5585,7 +5585,7 @@
     },
     "aviso_legal.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Página de temas legales del Partido Puto Amo, aquí se encuentra todo lo que debe saber un internauta que esté viajando por la web del Partit.",
         "title": "Aviso legal",
         "order": 5
       },
