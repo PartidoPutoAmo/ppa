@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Partit Puto Amo",
-    "currentPage": "militancia.html",
+    "currentPage": "materiales.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4932,9 +4932,9 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
-            "postToLoad": "1",
+            "postToLoad": "5",
             "facebook": "",
             "twitter": "partidoputoamo",
             "google": "",
