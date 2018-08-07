@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Partit Puto Amo",
-    "currentPage": "gobierno.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-117429813-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-117429813-1');\r\n</script>",
     "siteUrl": "",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 172,
+    "uniqCompNum": 173,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -6265,7 +6265,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "postToLoad": "3",
-            "facebook": "mobirise",
+            "facebook": "",
             "twitter": "partidoputoamo",
             "google": "",
             "youtube": "UC32ViUuuWqW2IhYz-pVuJmA",
@@ -6283,6 +6283,39 @@
           ],
           "_name": "feed",
           "_anchor": "feed-4o"
+        },
+        {
+          "_params": {
+            "token": "8382078839.727bfe1.24e0442f7e9a4663ad0ff5479f800e34",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram del Partido Puto Amo",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Ver más</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-4s"
         },
         {
           "_styles": {
