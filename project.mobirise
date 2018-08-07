@@ -6291,7 +6291,7 @@
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
             "rows": 2,
-            "showMoreButton": true,
+            "showMoreButton": false,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
             "spacing": 5,
@@ -6307,7 +6307,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram del Partido Puto Amo",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Ver más</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Ver más</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
