@@ -5248,22 +5248,36 @@ body {
 .cid-qP23ZUX4fG .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-qODSKMDSPG {
-  background-image: url("../../../assets/images/poster-del-president-2000x1107.png");
+.cid-r0K3M3Mb84 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-qODSKMDSPG h1 {
-  color: #616161;
+.cid-r0K0rHU27R {
+  background: #ffffff;
 }
-.cid-qODSKMDSPG h2,
-.cid-qODSKMDSPG h3,
-.cid-qODSKMDSPG p {
-  color: #767676;
+.cid-r0K0rHU27R .image-block {
+  margin: auto;
+  width: 100% !important;
 }
-.cid-qODSKMDSPG .mbr-section-subtitle {
-  font-style: italic;
+.cid-r0K0rHU27R .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r0K0rHU27R figcaption {
+  position: relative;
+}
+.cid-r0K0rHU27R figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r0K0rHU27R .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qYDz4r3OUv {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
