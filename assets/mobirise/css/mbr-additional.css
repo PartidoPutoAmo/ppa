@@ -1371,10 +1371,28 @@ body {
   padding-bottom: 0px;
   background-color: #ef3340;
 }
-.cid-qZBcBGUxmi {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/dsc-842-2000x1334.jpg");
+.cid-r4zE8eLlAx {
+  background: #ffffff;
+}
+.cid-r4zE8eLlAx .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-r4zE8eLlAx .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r4zE8eLlAx figcaption {
+  position: relative;
+}
+.cid-r4zE8eLlAx figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r4zE8eLlAx .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qOxS1HC2PN {
   padding-top: 45px;
