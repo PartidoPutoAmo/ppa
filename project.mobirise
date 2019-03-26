@@ -40,7 +40,7 @@
     "siteUrl": "",
     "versionFirst": "4.7.0",
     "uniqCompNum": 190,
-    "versionPublish": "4.9.5",
+    "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
